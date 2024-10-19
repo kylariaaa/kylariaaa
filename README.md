@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I' username Kylaria</h1>
 <h3 align="center">I'm Newbie Developer</h3>
 <h4 align="center">| Indonesian | English | 日本語 |</h4>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kylariaaa&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/kylariaaa/github-widgetbox)
-
 <img src="https://cdn.donmai.us/original/07/ae/07aeeca3a430d149e1feef495e0b5de1.gif">
 <br><br>
 
