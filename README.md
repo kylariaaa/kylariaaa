@@ -23,6 +23,9 @@ most used social media</p>
 
 <p align="center">
   <a href="https://www.instagram.com/kylaria.cmo3/" target="_blank"><img src="https://img.shields.io/badge/-kylaria.cmo3_-ocean?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <a href= 'https://discord.gg/weNn4wjH'>
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    </a>
 </p>
 </div>
 <br>
