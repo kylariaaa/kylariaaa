@@ -32,6 +32,14 @@ most used social media</p>
   <a href="https://github.com/kylariaaa"><img src="https://github-readme-stats.vercel.app/api?username=kylariaaa&theme=tokyonight&show_icons=true" /></a>
 </p>
 
+<!-- Spotify Recently Played -->
+<div align="center">
+  <a href="https://open.spotify.com/user/31yccgz46gxo3xfkxktofzdwek2y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yccgz46gxo3xfkxktofzdwek2y&count=5&unique=false" alt="Spotify recently played" />
+  </a>
+</div>
+
+
 <p align="center">
   <a href="https://github.com/kylariaaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kylariaaa&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
