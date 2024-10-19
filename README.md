@@ -13,7 +13,7 @@
   <img src="https://welcometoux.com/wp-content/uploads/2019/12/gif.gif">
   </a>
 
-- 📫 How to reach me **kylariaaa@gmail.com**
+- 📫 Reach me **kylariaaa@gmail.com**
 
 <br>
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
@@ -26,10 +26,10 @@ most used social media</p>
 </p>
 </div>
 <br>
-<h2 align="center"> 📈 ~ Github Stats ~ 📈 </h2>
+<h2 align="center"> 📈 ~ Stats ~ 📈 </h2>
 
 <p align="center">
-  <a href="https://github.com/kylariaaa"><img src="https://github-readme-stats.vercel.app/api?username=kylariaaa&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/kylariaaa"><img src="https://github-readme-stats.vercel.app/api?username=kylariaaa&theme=tokyonight&show_icons=true"/></a>
 </p>
 
 <p align="center">
