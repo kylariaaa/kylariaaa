@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I' username Kylaria</h1>
 <h3 align="center">I'm Newbie Developer</h3>
 <h4 align="center">| Indonesian | English | 日本語 |</h4>
-<img src="https://cdn.donmai.us/original/07/ae/07aeeca3a430d149e1feef495e0b5de1.gif">
-<br><br>
 
+##
+
+  <div align="center">
+  <a href="https://open.spotify.com/user/31h2bsqsqcif4es4vvhk4pl7qjay">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h2bsqsqcif4es4vvhk4pl7qjay&count=5&unique=false" alt="Spotify recently played" />
+  </a>
+    
+</div>
+
+##
 <div>
   <h2 align="center">  ~ ABOUT ME ~  </h2>
 </div>
 
-- 💻 I’m currently learning **UI/UX, WebDev, and GameDev**
+- 💻 I’m currently learning **UI/UX, WebDev, GameDev, Live2D for Web and Game,**
 <a>
-  <img src="https://welcometoux.com/wp-content/uploads/2019/12/gif.gif">
-  </a>
+  <img src="https://cdn.donmai.us/original/07/ae/07aeeca3a430d149e1feef495e0b5de1.gif">
+</a>
 
 - 📫 Reach me **kylariaaa@gmail.com**
-
-<br>
 <h2 align="center"> 📝 ~ CONTACT ME ~ 📝 </h2>
 
 <p align="center">Here are some my <br>
