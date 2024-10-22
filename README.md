@@ -4,7 +4,7 @@ I'am a student, I study UI/UX, Front End, GameDev, and Creating Live2D character
 I'study databases for my schoolwork.📝
 <br>
 
-<div class="align-center">
+<div>
   | Indonesian | English | 日本語 |
 </div>
 
