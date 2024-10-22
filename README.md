@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m currently learnin UI/UX, WebDev, GameDev, and Build Live2D Chae and Web.<br>
+I'am a student, I study UI/UX, Front End, GameDev, and Creating Live2D characters for web.<br>
 I'study databases for my schoolwork.📝
 <br>
 
