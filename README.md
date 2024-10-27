@@ -36,4 +36,4 @@ I'study databases for my schoolwork.📔
 </a>
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks GPRM ( https://gprm.itsvg.in ) 😉
