@@ -34,6 +34,6 @@ I'study databases for my schoolwork.📔
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Kylariaaa&label=Views&color=11&icon=5&pretty=true" />
 </a>
+<br>
+✨ Thanks GPRM ( https://gprm.itsvg.in ) 😉
 </div>
-
-Thanks GPRM ( https://gprm.itsvg.in ) 😉
