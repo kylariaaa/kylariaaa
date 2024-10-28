@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 I'am a student, I study UI/UX, Front End, GameDev, and Creating Live2D characters for web.<br>
-I'study databases for my schoolwork.📔
+I'study databases for my schoolwork.📜
 <br>
 
 <div>
