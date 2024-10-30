@@ -27,8 +27,10 @@ I'study databases for my schoolwork.📜
   <a href="https://open.spotify.com/user/31h2bsqsqcif4es4vvhk4pl7qjay">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h2bsqsqcif4es4vvhk4pl7qjay&count=5&unique=false" alt="Spotify recently played" />
   </a>    
-
 ---
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31h2bsqsqcif4es4vvhk4pl7qjay&redirect=true&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31h2bsqsqcif4es4vvhk4pl7qjay)
+
 
 <div align="center">
 <a href="https://visitcount.itsvg.in">
