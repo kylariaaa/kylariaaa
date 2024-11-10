@@ -27,7 +27,7 @@ I'study databases for my schoolwork.📜
   <a href="https://open.spotify.com/user/31h2bsqsqcif4es4vvhk4pl7qjay">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31h2bsqsqcif4es4vvhk4pl7qjay&count=5&unique=false" alt="Spotify recently played" />
   </a>    
----
+
 
 
 <div align="center">
@@ -37,3 +37,6 @@ I'study databases for my schoolwork.📜
 <br>
 ✨ Thanks GPRM ( https://gprm.itsvg.in ) 😉
 </div>
+
+
+*NNN progres (No Ngoding November) 🐦‍🔥
