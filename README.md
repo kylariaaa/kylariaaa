@@ -37,6 +37,3 @@ I'study databases for my schoolwork.📜
 <br>
 ✨ Thanks GPRM ( https://gprm.itsvg.in ) 😉
 </div>
-
-
-*NNN progres (No Ngoding November) 🐦‍🔥
