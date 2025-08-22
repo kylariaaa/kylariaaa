@@ -20,9 +20,6 @@ I'study databases for my schoolwork.📜
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kylariaaa&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylariaaa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Kylariaaa&label=Views&color=11&icon=5&pretty=true" />
-</a>
 <br>
 ✨ Thanks GPRM ( https://gprm.itsvg.in ) 😉
 </div>
