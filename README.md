@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'am a student, I study UI/UX, Front End, GameDev, and Creating Live2D characters for web.<br>
+I'am a student, I study UI/UX, Front End, GameDev, and Creating Live2D characters with cubism live 2d.<br>
 I'study databases for my schoolwork.📜
 <br>
 
