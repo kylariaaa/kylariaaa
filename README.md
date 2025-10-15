@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am a student, I study UI/UX, Front End, GameDev, and Creating Live2D characters with cubism live 2d.
+I'am a student, I study UI/UX, Front End, GameDev, and Live2D mod/gig characters.
 
 <div>
   | Indonesian | English | 日本語 |
