@@ -18,5 +18,5 @@ I'am a student, I study UI/UX, Front End, GameDev, and Live2D mod/gig characters
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kylariaaa&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
-✨ Thanks GPRM. ( https://gprm.itsvg.in ) 😉
+✨ Thanks GPRM. ( https://gprm.itsvg.in )
 </div>
